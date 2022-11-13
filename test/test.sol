@@ -2,7 +2,7 @@
 // SPDX-License-Identifier:GPL-3.0
 pragma solidity ^0.8.10;
 
-import { DSTest } from 'ds-test/test.sol';
+import { DSTest } from "lib/forge-std/src/Test.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 
